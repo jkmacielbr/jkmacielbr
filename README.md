@@ -1,6 +1,6 @@
 
 
-<h1 align="right" width="230"
+<h1 align="right" width="225"
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jkmacielbr)](https://github.com/jkmacielbr)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jkmacielbr/)](https://www.linkedin.com/in/jkmacielbr/)[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5592981016231?text=Ol%C3%A1,%20Encontrei%20voc%C3%AA%20atrav%C3%A9s%20do%20Git%20Hub)](https://wa.me/5592981016231?text=Ol%C3%A1,%20Encontrei%20voc%C3%AA%20atrav%C3%A9s%20do%20Git%20Hub)[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-the-badge&logo=gmail&logoColor=white&link=mailto:jk.maciel.br@gmail.com)](mailto:jk.maciel.br@gmail.com)
 </h1>
