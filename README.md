@@ -37,7 +37,7 @@ public void apresentacaoPessoal (){
 <div align = "center"> 
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,css,html,postgres&perline=10&theme=light)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=discord,eclipse,git,github,idea,linux&perline=10&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,css,html,postgres&perline=10&theme=light)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=discord,eclipse,gcp,git,github,idea,linux&perline=10&theme=light)](https://skillicons.dev)
  
 </div>
 
