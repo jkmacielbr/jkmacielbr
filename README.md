@@ -65,7 +65,8 @@ Programação Orientada a Objetos | Programação Web | Banco de Dados (Postgres
 
 
 
-## [Google Cloud Computing Fundamentals]([https://cursos.alura.com.br/user/jk-maciel-br/fullCertificate/44d9fe78b26f7aa9e8f3fdb3955b8ba8](https://www.cloudskillsboost.google/public_profiles/5bcf7ade-8bc6-41db-bd12-c0eb53712146))
+## [Google Cloud Computing Fundamentals](https://www.cloudskillsboost.google/public_profiles/5bcf7ade-8bc6-41db-bd12-c0eb53712146)
+Fundamentos do Google Cloud: a infraestrutura principal apresenta conceitos e terminologia importantes para trabalhar com o Google Cloud. Por meio de vídeos e laboratórios práticos, este curso apresenta e compara muitos dos serviços de computação e armazenamento do Google Cloud, juntamente com importantes ferramentas de gerenciamento de recursos e políticas.
 
 <!---
 jkmacielbr/jkmacielbr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
