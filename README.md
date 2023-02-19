@@ -65,6 +65,8 @@ Programação Orientada a Objetos | Programação Web | Banco de Dados (Postgres
 
 
 
+## [Google Cloud Computing Fundamentals]([https://cursos.alura.com.br/user/jk-maciel-br/fullCertificate/44d9fe78b26f7aa9e8f3fdb3955b8ba8](https://www.cloudskillsboost.google/public_profiles/5bcf7ade-8bc6-41db-bd12-c0eb53712146))
+
 <!---
 jkmacielbr/jkmacielbr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
